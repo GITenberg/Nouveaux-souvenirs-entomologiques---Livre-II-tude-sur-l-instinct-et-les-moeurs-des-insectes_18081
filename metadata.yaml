@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/735
     wikipedia: http://en.wikipedia.org/wiki/Jean_Henri_Fabre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18081#Nouveaux-souvenirs-entomologiques---Livre-II-tude-sur-l-instinct-et-les-moeurs-des-insectes
 gutenberg_bookshelf:
 - Biology
 - FR Sciences et Techniques
