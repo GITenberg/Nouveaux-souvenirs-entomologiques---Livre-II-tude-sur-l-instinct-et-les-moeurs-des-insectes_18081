@@ -1,0 +1,36 @@
+_repo: Nouveaux-souvenirs-entomologiques---Livre-II-tude-sur-l-instinct-et-les-moeurs-des-insectes_18081
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fabre, Jean-Henri
+    aliases:
+    - Fabre, Henri
+    - Fabre, Jean Henri Casimir
+    - Fabre, J. Henri
+    birthdate: 1823
+    deathdate: 1915
+    gutenberg_agent_id: '735'
+    url: http://www.gutenberg.org/2009/agents/735
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Henri_Fabre
+description: ''
+gutenberg_bookshelf:
+- Biology
+- FR Sciences et Techniques
+gutenberg_issued: '2006-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18081'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insects'
+- !lcc 'QL'
+title: 'Nouveaux souvenirs entomologiques - Livre II
+
+  Étude sur l''instinct et les moeurs des insectes'
+url: http://www.gutenberg.org/ebooks/18081
